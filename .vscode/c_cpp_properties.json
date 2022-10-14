@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/kwak/use_yolov3/devel/include/**",
+        "/home/kwak/door_ws/devel/include/**",
+        "/home/kwak/catkin_build_ws/install/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/kwak/use_yolov3/src/darknet_ros/darknet_ros/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
