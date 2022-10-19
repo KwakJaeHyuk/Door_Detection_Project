@@ -11,8 +11,12 @@ Project Progress<br><br>
 
 Detail<br><br>
 --
+YOLOv3<br>
+    iteration : 3000<br>
+- value threshold : 0.3
 
 Result<br>
 -> https://user-images.githubusercontent.com/87814705/196609767-4e42f47c-acaf-447e-a81b-9770c232a3fd.mp4
+
 
 
